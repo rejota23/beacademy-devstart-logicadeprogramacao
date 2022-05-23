@@ -1,7 +1,7 @@
-# beacademy-devstart-
+# beacademy-devstart-logicadeprogramação
 
 ## Resolução do Exercício Nº 17
 
-```sh
-	exemplo
+```portugol
+exemplo de código aqui
 ```
