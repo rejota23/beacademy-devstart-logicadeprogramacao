@@ -1,3 +1,5 @@
 # beacademy-devstart-logicadeprogramacao
 
-## [Exercicio 5](./exercicio.por)
+5 - Sistema bancario
+
+ [Exercicio 5](./exercicio5.por)
