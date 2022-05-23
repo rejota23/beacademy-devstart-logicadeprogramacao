@@ -2,4 +2,4 @@
 
 #### Exercício 24
 
-[Resolução](./exercicio24)
+[Resolução](./exercicio24.txt)
