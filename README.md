@@ -4,4 +4,4 @@
 
 Saldo da conta usando condicional IF/ELSE
 
-- [@exercicio19](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/tree/feature/exercicio19)
+- [@exercicio 19](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio19/SALDOCONDICIONAL.ALG)
