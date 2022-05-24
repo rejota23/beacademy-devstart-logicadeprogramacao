@@ -1,6 +1,5 @@
 # beacademy-devstart-logicadeprogramacao
 
-
 ### Intro
 
 ## Exercícios realizados em conjunto para a Sprint 4 no Curso de Lógica de Programação
@@ -10,11 +9,14 @@
 ### 2- Exercício 2 de NOME_e_ENDEREÇO
 [Exercicio 2](beacademy-devstart-logicadeprogramacao)
 
+### Exercício 3
+[exercicio 3](beacademy-devstart-logicadeprogramacao)
+
 ### 11- Documentação
 [Exercicio 11](https://link-da-documentação)
 
 ### 12- MULTIPLOS DE DOIS 😁
-[exercicio12](http://multiplos-de-dois.com
+[exercicio12](http://multiplos-de-dois.com)
 
 ### 14- Crie um programa que solicite nome de usuario e senha, e verifique se são corretos.
 [exercicio 14](https://github.com/gdg89/beacademy-devstart-logicadeprogramacao/blob/master/VALIDACAO_SENHA.ALG)
