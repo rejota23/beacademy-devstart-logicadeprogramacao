@@ -1,0 +1,10 @@
+//Exercicio 25 - apresenta o nome do usuario
+
+Algoritmo "Exemplo 25"
+var nome: caractere
+
+Inicio
+  escreva("Digite seu nome)
+  leia(nome)
+  escreva("Seu nome" + nome)
+Fimalgoritmo

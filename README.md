@@ -1,6 +1,5 @@
 # beacademy-devstart-logicadeprogramacao
 
-=======
 ### Intro
 
 ## Exercícios realizados em conjunto para a Sprint 4 no Curso de Lógica de Programação
@@ -70,3 +69,7 @@ Resposta 4
 
 ### 24- Exercício 24
 [Exercicio 24](./exercicio24.txt)
+
+25 - apresentar o nome do usuario
+
+[Exercicio25](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio25/exercicio25.txt)
