@@ -28,6 +28,10 @@ Resposta 4
 ### 6 - Descrição do Exercício.
 [Exercício 6](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio6/exercicio6.txt)
 
+7 - Exercicio : Escreva um laço de repetição que mostre na tela 10 numeros usando o laço de repetição FOR, veja um exemplo no link abaixo.
+
+[Exercicio numero 7](https://link-da-documentação)
+
 ### exercicio 9
 # link do exercício
 
