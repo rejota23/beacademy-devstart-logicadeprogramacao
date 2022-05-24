@@ -1,26 +1,19 @@
 # beacademy-devstart-logicadeprogramacao
 
-##Trouxe muitas soluções navegando pelo indice
+### Intro
 
-programa
-{
-	
-	funcao inicio()
-	{
-		inteiro notas[3][3]
-          inteiro linha,coluna
+## Exercícios realizados em conjunto para a Sprint 4 no Curso de Lógica de Programação
 
-          escreva("\nnavegando pelos indices\n")
-          
-		para( linha = 0; linha < 3; linha++){
-			para( coluna = 0; coluna < 3; coluna++){
-				  
-				  
-				  leia(notas[linha][coluna])
-				  escreva("esse é o valor do indice: ",notas[linha][coluna],"\n1")
-				}
-			}
-	}
-}
+## Serão 25 exercícios com resolução feita por 25 Dev Starters
 
-Código de firula sdlkfjsdkfjsdlfk
+### Exercício 2 de NOME_e_ENDEREÇO
+[exercicio 2](beacademy-devstart-logicadeprogramacao\)
+
+### Exercício 3
+[exercicio 3](beacademy-devstart-logicadeprogramacao\)
+
+##18- Pergunta do exercicio 18
+[Exercicio18](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/b8e5aec06ff062346ef4154e06130a7e6f6244e6/exercicio%2018.txt)
+
+## 20 - titulo do exercicio
+[exercicio 20](beacademy-devstart-logicadeprogramacao\exercicio20\exercicio20.txt)
