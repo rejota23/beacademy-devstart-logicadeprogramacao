@@ -1,10 +1,15 @@
 # beacademy-devstart-logicadeprogramacao
 
+=======
 ### Intro
 
 ## Exercícios realizados em conjunto para a Sprint 4 no Curso de Lógica de Programação
 
 ## Serão 25 exercícios com resolução feita por 25 Dev Starters
+
+## 1 Resolucao do primeiro exercicio
+
+[exercicio 1](beacademy-devstart-logicadeprogramacao\exercicio1\exercicio1.txt)
 
 ### 2- Exercício 2 de NOME_e_ENDEREÇO
 [Exercicio 2](beacademy-devstart-logicadeprogramacao)
