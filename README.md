@@ -35,6 +35,9 @@ Resposta 4
 ### 12- MULTIPLOS DE DOIS 😁
 [exercicio12](http://multiplos-de-dois.com)
 
+#### Exercício 13 - Enunciado
+[Exercício 13](https://link-da-documentação)
+
 ### 14- Crie um programa que solicite nome de usuario e senha, e verifique se são corretos.
 [exercicio 14](https://github.com/gdg89/beacademy-devstart-logicadeprogramacao/blob/master/VALIDACAO_SENHA.ALG)
 
