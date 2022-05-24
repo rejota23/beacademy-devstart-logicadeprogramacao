@@ -12,6 +12,9 @@
 ### Exercício 3
 [exercicio 3](beacademy-devstart-logicadeprogramacao)
 
+### 6 - Descrição do Exercício.
+[Exercício 6](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio6/exercicio6.txt)
+
 ### 11- Documentação
 [Exercicio 11](https://link-da-documentação)
 
@@ -35,3 +38,4 @@
 
 ### 24- Exercício 24
 [Exercicio 24](./exercicio24.txt)
+
