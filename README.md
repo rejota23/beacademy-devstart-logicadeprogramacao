@@ -1,7 +1,5 @@
-=======
 # beacademy-devstart-logicadeprogramacao
 
-=======
 ### Intro
 
 ## Exercícios realizados em conjunto para a Sprint 4 no Curso de Lógica de Programação
@@ -26,6 +24,9 @@ Resposta 4
 [Exercício 6](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio6/exercicio6.txt)
 
 ### exercicio 9
+# link do exercício
+
+### exercício 10
 # link do exercício
 
 ### 11- Documentação
