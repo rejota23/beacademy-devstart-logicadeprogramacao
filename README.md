@@ -21,9 +21,8 @@
 
 Resposta 4
 
-5 - Sistema bancario portugol
-
- [Exercicio 5](./exercicio5.por)
+### 5 - Sistema bancario portugol
+[Exercicio 5](./exercicio5.por)
 
 ### 6 - Descrição do Exercício.
 [Exercício 6](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio6/exercicio6.txt)
