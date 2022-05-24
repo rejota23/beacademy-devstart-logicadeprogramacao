@@ -30,7 +30,7 @@
 ### 18- Pergunta do exercicio 18
 [Exercicio 18](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/b8e5aec06ff062346ef4154e06130a7e6f6244e6/exercicio%2018.txt)
 
-### 19- Saldo da conta usando condicional IF/ELSE
+### 19- Exercicio sobre Saldo da conta com Condicionais e Laço 
 [exercicio 19](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio19/exercicio19.alg)
 
 ### 20- titulo do exercicio
