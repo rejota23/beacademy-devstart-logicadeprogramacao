@@ -31,7 +31,7 @@
 [Exercicio 18](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/b8e5aec06ff062346ef4154e06130a7e6f6244e6/exercicio%2018.txt)
 
 ### 19- Saldo da conta usando condicional IF/ELSE
-[exercicio 19](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio19/SALDOCONDICIONAL.ALG)
+[exercicio 19](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio19/exercicio19.alg)
 
 ### 20- titulo do exercicio
 [exercicio 20](beacademy-devstart-logicadeprogramacao\exercicio20\exercicio20.txt)
