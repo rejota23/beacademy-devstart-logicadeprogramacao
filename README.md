@@ -1,4 +1,3 @@
-
 # beacademy-devstart-logicadeprogramacao
 
 
@@ -20,4 +19,6 @@
 ## 20 - titulo do exercicio
 [exercicio 20](beacademy-devstart-logicadeprogramacao\exercicio20\exercicio20.txt)
 
+## 24 - Exercício 24
+[Resolução](./exercicio24.txt)
 
