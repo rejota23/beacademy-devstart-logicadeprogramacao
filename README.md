@@ -1,3 +1,4 @@
+=======
 # beacademy-devstart-logicadeprogramacao
 
 =======
@@ -23,6 +24,9 @@ Resposta 4
 
 ### 6 - Descrição do Exercício.
 [Exercício 6](https://github.com/rejota23/beacademy-devstart-logicadeprogramacao/blob/feature/exercicio6/exercicio6.txt)
+
+### exercicio 9
+# link do exercício
 
 ### 11- Documentação
 [Exercicio 11](https://link-da-documentação)
