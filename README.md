@@ -34,8 +34,8 @@ Resposta 4
 ### exercicio 9
 # link do exercício
 
-### exercício 10
-# link do exercício
+### Exercício 10 - Simulador de Banco com Operações de Saque, Depósito e Transferência Utilizando Estrutura 'Escolha Caso'.
+[Exercício 10](https://github.com/amcarv1/beacademy-devstart-logicadeprogramacao/blob/main/exercicio10.ALG)
 
 ### 11- Documentação
 [Exercicio 11](https://link-da-documentação)
