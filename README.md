@@ -48,7 +48,7 @@
 
 ### 23- Exercício 23
 
-[Exercicio 23](./exercicio23.txt)
+[Exercicio 23](./exercicio23.md)
 
 ### 24- Exercício 24
 
